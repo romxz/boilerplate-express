@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-node-with-express",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"dependencies": {
 		"express": "^4.14.0",
 		"body-parser": "^1.15.2",
@@ -13,5 +13,9 @@
 	},
 	"engines": {
 		"node": "4.4.5"
-	}
+	},
+	"author": "Ruben Romero",
+  	"description": "A tutorial for basic node and express",
+	"keywords": ["freecodecamp", "npm", "node", "express"],
+  	"license": "MIT"
 }
